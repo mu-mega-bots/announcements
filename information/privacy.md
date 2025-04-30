@@ -2,7 +2,7 @@
 ### Last Edited 1:36AM Eastern Standard Time (New York) | 11/10/2024
 
 # Collected Data
-We collect and store you're User ID, Server ID (and Server Name), and selective Channel IDs for the purpose of providing `announcements` as a service.
+We collect and store your User ID, Server ID (and Server Name), and selective Channel IDs for the purpose of providing `announcements` as a service.
 
 Additionally when you add `Announcements` to a guild we record that `Announcements` Joined a new guild (guild name is recorded) in our support server.
 
